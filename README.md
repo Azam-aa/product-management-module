@@ -2,12 +2,6 @@
 
 A simple Product Management web application to **Add, View, Edit, and Delete products** with a clean user interface and smooth user experience.
 
----
-
-## 🔗 Live Demo
-👉 https://your-live-link-here
-
----
 
 ## 📸 Screenshot
 
@@ -26,7 +20,7 @@ The application follows the given task requirements strictly and focuses on simp
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** React JS, Tailwind CSS  
+- **Frontend:** React JS, Tailwind CSS
 - **Backend:** Node JS (Express)
 
 ---
@@ -43,10 +37,10 @@ The application follows the given task requirements strictly and focuses on simp
 
 ## 📦 Product Details
 
-- Product Name  
-- Product Category  
-- Product Price  
-- Product Description  
+- Product Name
+- Product Category
+- Product Price
+- Product Description
 - Product Status (Active / Inactive)
 
 ---

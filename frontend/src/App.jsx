@@ -112,7 +112,6 @@ function App() {
           </div>
         )}
 
-        
         <form onSubmit={handleSubmit} className="grid grid-cols-2 gap-4 mb-8">
           <input
             name="name"
